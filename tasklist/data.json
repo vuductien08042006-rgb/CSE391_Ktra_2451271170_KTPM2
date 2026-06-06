@@ -1,7 +1,0 @@
-[
-  { "id": 1, "task": "Go to gym",        "priority": "High",   "status": "To Do"       },
-  { "id": 2, "task": "Read a book",      "priority": "Low",    "status": "Done"        },
-  { "id": 3, "task": "Go to market",     "priority": "Medium", "status": "In Progress" },
-  { "id": 4, "task": "Study JavaScript", "priority": "High",   "status": "To Do"       },
-  { "id": 5, "task": "Clean the house",  "priority": "Medium", "status": "To Do"       }
-]
