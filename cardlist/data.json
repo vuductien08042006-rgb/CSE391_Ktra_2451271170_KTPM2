@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Student Developers Club",
+    "president": "Alex Carter",
+    "email": "codehub@student.univ.edu",
+    "phone": "555010203",
+    "foundedDate": "2018-09-15"
+  },
+  {
+    "name": "Acoustic Guitar Society",
+    "president": "Sophie Turner",
+    "email": "music@univ.edu",
+    "phone": "555020304",
+    "foundedDate": "2017-03-01"
+  },
+  {
+    "name": "Startup & Innovation Hub",
+    "president": "Jordan Lee",
+    "email": "startup@univ.edu",
+    "phone": "555030405",
+    "foundedDate": "2019-11-20"
+  },
+  {
+    "name": "English Conversation Club",
+    "president": "Emma Brown",
+    "email": "english@univ.edu",
+    "phone": "555040506",
+    "foundedDate": "2016-05-08"
+  },
+  {
+    "name": "Green Shuttle Badminton",
+    "president": "Chris Martin",
+    "email": "badminton@univ.edu",
+    "phone": "555050607",
+    "foundedDate": "2020-01-10"
+  }
+]
